@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-     Get all OUs in the domain
+     Get every OU in the domain
 .NOTES
      Author: Cody Wellman <cody@codexmicro.systems>
 #>
